@@ -1,66 +1,62 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "name": "Bryan Cristhopher Ignacio Xoy",
+    "label": "Estudiante de Ingenieria en Ciencias y Sistemas",
+    "image": "/IMG_5308.png",
+    "email": "bryan-ignacio@outlook.com",
+    "phone": "+502 3081-7780",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Tengo experiencia en el desarrollo de aplicaciones tanto en consola como con interfaz gráfica, así como en desarrollo web. Resido en Ciudad de Guatemala y actualmente estoy cursando el sexto semestre de mi formación académica.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "",
+      "city": "Ciudad De Guatemala",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Guatemala"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "bryan-ignacio",
+        "url": "https://linkedin.com/in/bryan-ignacio"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "bryan-ignacio",
+        "url": "https://github.com/bryan-ignacio"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "name": "Diploma ITS JAVASCRIPT",
+      "position": "Academia Europea, Professional Skills",
+      "url": "/javaScript.pdf",
+      "startDate": "2023-08-01",
+      "endDate": "2024-01-01",
+      "summary": "",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Diploma ITS BASE DE DATOS",
+      "position": "Academia Europea, Professional Skills",
+      "url": "/base-datos.pdf",
+      "startDate": "2023-08-01",
+      "endDate": "2024-01-01",
+      "summary": "",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+      "position": "Amazon Web Services Training and Certification",
+      "url": "https://www.credly.com/badges/6cf9f4ab-0b1e-4a6f-8902-da4544fe2270/linked_in_profile",
+      "startDate": "2023-08-01",
+      "endDate": "2024-01-01",
+      "summary": "",
       "highlights": [
         "Started the company"
       ]
@@ -78,12 +74,23 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
+    "institution": "Colegio Verapaz",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "area": "Bachillerato En Computación.",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2014-01-01",
+    "endDate": "2016-01-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },{
+    "institution": "Universidad de San Carlos De Guatemala",
+    "url": "https://www.uoc.edu/portal/es/index.html",
+    "area": "Ingenieria en Ciencias y Sistemas.",
+    "studyType": "Bachelor",
+    "startDate": "2017-01-01",
+    "endDate": "2027-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -131,7 +138,7 @@
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "Java",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
@@ -143,21 +150,34 @@
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
       ]
+    },{
+      "name": "C++",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
     },
     {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },    {
+      "name": "Go",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    }
+    ,{
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Backend", "JavaScript", "Servidor"
       ]
     },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
+
     {
       "name": "Git",
       "level": "Avanzado",
@@ -173,17 +193,23 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },{
+      "name": "Kotlin",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Data Bases", "UI"
       ]
     }
   ],
@@ -210,66 +236,76 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Todo App",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Aplicacion para apuntar tareas.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Kotlin",
+        "Android Studio"
       ],
-      "url": "https://mars.codes"
+      "url": "https://github.com/bryan-ignacio/TodoAppNative.git",
+      "github": "https://github.com/bryan-ignacio/TodoAppNative.git"
     },
     {
-      "name": "AdventJS",
+      "name": "Hero Section",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "La seccion Hero esta creado con Vanilla CSS.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "CSS",
+        "HTML"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://github.com/bryan-ignacio/hero_nike.git",
+      "github": "https://github.com/bryan-ignacio/hero_nike.git"
     },
     {
-      "name": "Codember",
+      "name": "Gif App",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Muestra una serie de gifs del input introducido por el usuario.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "React",
+        "Vite"
       ],
-      "url": "https://codember.dev"
+      "url": "https://bryan-app-gif.netlify.app/"
     },
     {
-      "name": "codi.link",
+      "name": "Process Data",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "En este proyecto se utilizaron Algoritmos de ordenamiento: Bubble Sort, Quick Sort, ShellShort",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Java",
+        "UI"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://github.com/bryan-ignacio/ProcessData.git",
+      "github": "https://github.com/bryan-ignacio/ProcessData.git"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Cartelera de Cine",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Esta App Web cuenta con BackEnd y FrontEnd",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "Python","Flask",
+        "JavaScript", "HTML", "CSS",
+        "Netlify"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "https://romantic-goldstine-6fdd05.netlify.app/paginaprincipal/",
+      "github": "https://github.com/bryan-ignacio/p2fronted.git"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "Renta Activos",
+      "description": "En esta aplicacion en consola se utilizan las Estructuras de Datos: Matriz Dispersa y Arbol AVl.",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
+        "C++"
       ],
-      "url": "https://miduconf.com"
+      "url": "https://github.com/bryan-ignacio/projecto_activos.git",
+      "github": "https://github.com/bryan-ignacio/projecto_activos.git"
+    },    {
+      "name": "Sistema de Control",
+      "description": "En esta aplicacion en consola se utilizan las Estructuras de Datos: Lista Enlazada, Cola, Lista Circular Doble, Arbol B, Lista De Adyacencia y Grafos.",
+      "highlights": [
+        "C++"
+      ],
+      "url": "https://github.com/bryan-ignacio/proyecto2_.git",
+      "github": "https://github.com/bryan-ignacio/proyecto2_.git"
     }
   ]
 }
