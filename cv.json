@@ -281,7 +281,7 @@
     {
       "name": "Cartelera de Cine",
       "isActive": true,
-      "description": "Esta App Web cuenta con BackEnd y FrontEnd",
+      "description": "Esta App Web cuenta con BackEnd y FrontEnd.",
       "highlights": [
         "Python","Flask",
         "JavaScript", "HTML", "CSS",
