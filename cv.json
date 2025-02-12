@@ -162,6 +162,13 @@
         "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
       ]
     },{
+      "name": "C#",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Data Bases", "UI"
+      ]
+    }
+    ,{
       "name": "C++",
       "level": "Avanzado",
       "keywords": [
@@ -214,13 +221,6 @@
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "SQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Data Bases", "UI"
       ]
     }
   ],
