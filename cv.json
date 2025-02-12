@@ -5,7 +5,7 @@
     "image": "/IMG_5308.png",
     "email": "bryan-ignacio@outlook.com",
     "phone": "+502 3081-7780",
-    "url": "https://midu.dev",
+    "url": "",
     "summary": "Tengo experiencia en el desarrollo de aplicaciones tanto en consola como con interfaz gráfica, así como en desarrollo web. Resido en Ciudad de Guatemala y actualmente estoy cursando el sexto semestre de mi formación académica.",
     "location": {
       "address": "",
@@ -60,6 +60,17 @@
       "highlights": [
         "Started the company"
       ]
+    },
+    {
+      "name": "Listado de cursos Aprobados [FIUSAC]",
+      "position": "Universidad de San Carlos De Guatemala",
+      "url": "/FIUSAC.pdf",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Started the company"
+      ]
     }
   ],
   "volunteer": [{
@@ -75,7 +86,7 @@
   }],
   "education": [{
     "institution": "Colegio Verapaz",
-    "url": "https://www.uoc.edu/portal/es/index.html",
+    "url": "",
     "area": "Bachillerato En Computación.",
     "studyType": "Bachelor",
     "startDate": "2014-01-01",
@@ -86,11 +97,11 @@
     ]
   },{
     "institution": "Universidad de San Carlos De Guatemala",
-    "url": "https://www.uoc.edu/portal/es/index.html",
+    "url": "",
     "area": "Ingenieria en Ciencias y Sistemas.",
     "studyType": "Bachelor",
     "startDate": "2017-01-01",
-    "endDate": "2027-01-01",
+    "endDate": "2026",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
