@@ -35,9 +35,7 @@
       "startDate": "2023-08-01",
       "endDate": "2024-01-01",
       "summary": "",
-      "highlights": [
-        "Started the company"
-      ]
+      "highlights": ["Started the company"]
     },
     {
       "name": "Diploma ITS BASE DE DATOS",
@@ -46,9 +44,7 @@
       "startDate": "2023-08-01",
       "endDate": "2024-01-01",
       "summary": "",
-      "highlights": [
-        "Started the company"
-      ]
+      "highlights": ["Started the company"]
     },
     {
       "name": "AWS Academy Graduate - AWS Academy Cloud Foundations",
@@ -57,9 +53,7 @@
       "startDate": "2023-08-01",
       "endDate": "2024-01-01",
       "summary": "",
-      "highlights": [
-        "Started the company"
-      ]
+      "highlights": ["Started the company"]
     },
     {
       "name": "Listado de cursos Aprobados [FIUSAC]",
@@ -68,167 +62,166 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        "Started the company"
-      ]
+      "highlights": ["Started the company"]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Colegio Verapaz",
-    "url": "",
-    "area": "Bachillerato En Computación.",
-    "studyType": "Bachelor",
-    "startDate": "2014-01-01",
-    "endDate": "2016-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  },{
-    "institution": "Universidad de San Carlos De Guatemala",
-    "url": "",
-    "area": "Ingenieria en Ciencias y Sistemas.",
-    "studyType": "Bachelor",
-    "startDate": "2017-01-01",
-    "endDate": "2026",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Colegio Verapaz",
+      "url": "",
+      "area": "Bachillerato En Computación.",
+      "studyType": "Bachelor",
+      "startDate": "2014-01-01",
+      "endDate": "2016-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "Universidad de San Carlos De Guatemala",
+      "url": "",
+      "area": "Ingenieria en Ciencias y Sistemas.",
+      "studyType": "Bachelor",
+      "startDate": "2017-01-01",
+      "endDate": "2026",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Java",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
-    },{
+    },
+    {
       "name": "C#",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Data Bases", "UI"
-      ]
-    }
-    ,{
+      "keywords": ["Desarrollo Web", "Frontend", "Data Bases", "UI"]
+    },
+    {
       "name": "C++",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "Python",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
-    },    {
+    },
+    {
       "name": "Go",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
-    }
-    ,{
+    },
+    {
       "name": "Node",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
 
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    },{
       "name": "Kotlin",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "SQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -241,26 +234,24 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
       "name": "Todo App",
       "isActive": true,
       "description": "Aplicacion para apuntar tareas.",
-      "highlights": [
-        "Kotlin",
-        "Android Studio"
-      ],
+      "highlights": ["Kotlin", "Android Studio"],
       "url": "https://github.com/bryan-ignacio/TodoAppNative.git",
       "github": "https://github.com/bryan-ignacio/TodoAppNative.git"
     },
@@ -268,10 +259,7 @@
       "name": "Hero Section",
       "isActive": true,
       "description": "La seccion Hero esta creado con Vanilla CSS.",
-      "highlights": [
-        "CSS",
-        "HTML"
-      ],
+      "highlights": ["CSS", "HTML"],
       "url": "https://github.com/bryan-ignacio/hero_nike.git",
       "github": "https://github.com/bryan-ignacio/hero_nike.git"
     },
@@ -279,20 +267,14 @@
       "name": "Gif App",
       "isActive": true,
       "description": "Muestra una serie de gifs del input introducido por el usuario.",
-      "highlights": [
-        "React",
-        "Vite"
-      ],
+      "highlights": ["React", "Vite"],
       "url": "https://bryan-app-gif.netlify.app/"
     },
     {
       "name": "Process Data",
       "isActive": true,
       "description": "En este proyecto se utilizaron Algoritmos de ordenamiento: Bubble Sort, Quick Sort, ShellShort",
-      "highlights": [
-        "Java",
-        "UI"
-      ],
+      "highlights": ["Java", "UI"],
       "url": "https://github.com/bryan-ignacio/ProcessData.git",
       "github": "https://github.com/bryan-ignacio/ProcessData.git"
     },
@@ -300,30 +282,30 @@
       "name": "Cartelera de Cine",
       "isActive": true,
       "description": "Esta App Web cuenta con BackEnd y FrontEnd.",
-      "highlights": [
-        "Python","Flask",
-        "JavaScript", "HTML", "CSS",
-        "Netlify"
-      ],
+      "highlights": ["Python", "Flask", "JavaScript", "HTML", "CSS", "Netlify"],
       "url": "https://romantic-goldstine-6fdd05.netlify.app/paginaprincipal/",
       "github": "https://github.com/bryan-ignacio/p2fronted.git"
     },
     {
       "name": "Renta Activos",
       "description": "En esta aplicacion en consola se utilizan las Estructuras de Datos: Matriz Dispersa y Arbol AVl.",
-      "highlights": [
-        "C++"
-      ],
+      "highlights": ["C++"],
       "url": "https://github.com/bryan-ignacio/projecto_activos.git",
       "github": "https://github.com/bryan-ignacio/projecto_activos.git"
-    },    {
+    },
+    {
       "name": "Sistema de Control",
       "description": "En esta aplicacion en consola se utilizan las Estructuras de Datos: Lista Enlazada, Cola, Lista Circular Doble, Arbol B, Lista De Adyacencia y Grafos.",
-      "highlights": [
-        "C++"
-      ],
+      "highlights": ["C++"],
       "url": "https://github.com/bryan-ignacio/proyecto2_.git",
       "github": "https://github.com/bryan-ignacio/proyecto2_.git"
+    },
+    {
+      "name": "MVC .NET",
+      "description": "Proyectos en .NET CRUD y consumo de API",
+      "highlights": ["C#"],
+      "url": "https://github.com/bryan-ignacio/cs-mvc.git",
+      "github": "https://github.com/bryan-ignacio/cs-mvc.git"
     }
   ]
 }
